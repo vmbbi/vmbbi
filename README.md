@@ -11,6 +11,6 @@
   <img alt="Most used languages" />
 </picture>
 <div>
-  <a href=“https://vmbbi.is-a.dev”>Visit my site</a>
+  [Visit my site](https://vmbbi.is-a.dev)
 </div>
 
