@@ -10,4 +10,7 @@
   <source srcset="https://raw.githubusercontent.com/vmbbi/github-stats/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="Most used languages" />
 </picture>
-vmbbi.is-a.dev
+<div>
+  <a href=“https://vmbbi.is-a.dev”>Visit my site</a>
+</div>
+
